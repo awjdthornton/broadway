@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  font-family: helvetica;
+}
+
+.top-menu, .top-menu a {
+  color: white;
+  background-image: url("../resources/the-flatiron-building.png");
+}
