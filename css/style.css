@@ -30,8 +30,29 @@ ul {
   line-height: 1.5;
 }
 
+ul li {
+    display: inline-block;
+    width: 50px;
+    text-align: center;
+}
+
 p {
   font-size: 14px;
+}
+
+.our-process * {
+  display: inline-block;
+}
+
+.our-process img {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.info {
+  display: inline-block;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 .footer {
